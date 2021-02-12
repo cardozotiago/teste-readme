@@ -23,6 +23,6 @@ It allows you to have an application running in production quickly, since it alr
 - Swagger:
 Model and document REST APIs and also due to the knowledge acquired in previous projects.
 
--JUnit:
+- JUnit:
 The advantage of doing tests is knowing if the method is meeting the requirements specified in the test itself. You can modify your normal methods and run JUnit to see if your changes have not compromised the result of the modified method.
 
